@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # learning maths in bash
 

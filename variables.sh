@@ -1,3 +1,4 @@
+#!/bin/bash
 name="Rohit"
 ocuupation="Software Engineer"
 directory=$(pwd) # capturing output of a command in a variable
