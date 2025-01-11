@@ -10,8 +10,7 @@ do
     j=0
     while [ $j -lt $lines ];
     do
-        echo -n "$(( lines-j)) "
-        
+        echo -n "$(( lines-i)) "
         j=$((j+1))
     done
     echo
