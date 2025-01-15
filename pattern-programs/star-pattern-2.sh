@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo -n "Enter number of lines: "
-read lines
+read -p "Enter number of lines: " lines
 
 for (( i=1; i<=lines; i++ ))
 do
