@@ -1,4 +1,4 @@
 #!/bin/bash
 first="I drive a BMW and Volvo"
-second="Audi"
+second="Maruti"
 echo "${first/BMW/"$second"}" 
